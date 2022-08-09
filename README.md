@@ -1,2 +1,2 @@
-# WeatherApp
- Weather forecast application build using HTML, CSS and JavaScript.
+# WeatherUp :sun_behind_small_cloud:	
+Weather forecast application build using HTML, CSS and JavaScript.
